@@ -23,6 +23,7 @@ public class PushToGit {
         
         System.out.println("My First commit");
         System.out.println("Second commit");
+        System.out.println("First remote commit");
     }
 
 }
