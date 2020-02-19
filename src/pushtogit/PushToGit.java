@@ -22,6 +22,7 @@ public class PushToGit {
         // TODO code application logic here
         
         System.out.println("My First commit");
+        System.out.println("Second commit");
     }
 
 }
