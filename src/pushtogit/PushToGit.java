@@ -20,6 +20,8 @@ public class PushToGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        Food myFood = new Food("Coke","45");
         
         System.out.println("My First commit");
         System.out.println("Second commit");
